@@ -1,0 +1,23 @@
+Hello,ell
+This is good, is
+CodeEval,C*Eval
+Old,Young
+CodeEval,C\*Eval
+thisoldmanheplayedsticks,this*man*sticks
+56*9a,56*9
+*,*
+*So*eaE,*JH*,
+*So*eaE,**
+blblah*,blb*h*
+blah*,blb*h*
+blah*,blb*h
+CodeEval,C*Eval
+CodeEval,C*Ev*al
+CodeE*val,C*Ev*al
+Old,*Young*
+Old,*ung*
+Old,*l*
+Old,O*l*
+Old,*d
+Old,O*
+Old,O*d
