@@ -113,7 +113,6 @@ lines.each do |line|
     digits = digits[1..-1]
   end
   num_strings.each do |num_string|
-    #puts num_string.to_s + " equals " + compute(num_string).to_s
     result +=1 if is_ugly?(compute(num_string))
   end
   puts result
